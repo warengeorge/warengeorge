@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @warengeorge
 - 👀 I’m interested in Blockchain development, Devops, Web 3.0.
-- 🌱 I’m currently learning Haskell & Plutus 
+- 🌱 I’m currently learning Devops 
 - 💞️ I’m looking to collaborate on Blockchain Dev projects 
 - 📫 How to reach me at georgeomiebi@gmail.com
 

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @warengeorge
-- 👀 I’m interested in Blockchain development, Devops, Web 3.0.
-- 🌱 I’m currently learning Devops 
-- 💞️ I’m looking to collaborate on Blockchain Dev projects 
+- 👋 Hi, I’m George
+- 👀 I’m interested in Blockchain, Devops.
+- 🌱 I’m currently learning C language.  
+- 💞️ I’m looking to collaborate on fascinating projects. 
 - 📫 How to reach me at georgeomiebi@gmail.com
 
 <!---

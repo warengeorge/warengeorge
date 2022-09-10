@@ -1,8 +1,7 @@
 ## Hi there, I'm George 
 
-<p align="right">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
-</p>
+<img align="right" src="https://img.icons8.com/ios-filled/96/000000/programming.png" width="20%"/>
+
 - I'm a **Learner** | **Programmer** 
 - About me :- **Devops Certified Engineer** | **Blockchain Enthusiast**
 - Currently **learning C and Python at ALX**

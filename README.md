@@ -1,5 +1,6 @@
 ## Hi there, I'm George 
 
+
 <img align="right" src="https://img.icons8.com/ios-filled/96/000000/programming.png" width="10%"/>
 
 - I'm a **Learner** | **Programmer** 

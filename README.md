@@ -1,4 +1,4 @@
-## Hi there, I'm Tamunomiebi George 
+## Hi there, I'm George 
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
@@ -7,7 +7,7 @@
 
 - I'm a **Learner** | **Programmer** 
 - About me :- **Devops Certified Engineer** | **Blockchain Enthusiast**
-- Currently **learning C and Python at ALX **
+- Currently ** learning C and Python at ALX **
 - Willing to contribute more and more in **Backend and Blockchain projects**
 
 

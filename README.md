@@ -7,7 +7,7 @@
 
 - I'm a **Learner** | **Programmer** 
 - About me :- **Devops Certified Engineer** | **Blockchain Enthusiast**
-- Currently ** learning C and Python at ALX **
+- Currently **learning C and Python at ALX**
 - Willing to contribute more and more in **Backend and Blockchain projects**
 
 

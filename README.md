@@ -29,15 +29,7 @@
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
 </a>
 
-<!---
-### Programming Languages....
 
-<p align="left">
-<img width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-</p>
---->
 <div align="center">
   <a href="https://github.com/warengeorge">
   <img height="150em" img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warengeorge&layout=compact&langs_count=7&theme=radical"/>
@@ -50,6 +42,19 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
   <img align="center" alt="Viq-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img align="right" src="https://i.picasion.com/pic91/d5053f9deecfab14aacad086eed7f262.gif" width="120" height="120" border="0" alt="https://picasion.com/" /></a><br />
 </div>
+
+
+
+
+<!---
+### Programming Languages....
+
+<p align="left">
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+</p>
+--->
 
 <!---
 #### Profile views counter

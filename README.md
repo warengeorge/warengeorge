@@ -26,11 +26,10 @@
   <img align="left" alt="Adebiyi Emmanuel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 
-<br/>
-<br/>
- 
+</a>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-project-tau-five.vercel.app/)
-
+</a>
+                                          
 <!---
 warengeorge/warengeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

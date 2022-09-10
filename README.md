@@ -25,7 +25,10 @@
 <a href="https://twitter.com/tweets4omiebi/">
   <img align="left" alt="Tamunomiebi George's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-</a> <img align="left" alt="Tamunomiebi George's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" /> georgeomiebi@gmail.com </a>
+</a> 
+<a href="mailto:george@gmail.com">Email Us</a>  
+  <img align="left" alt="Tamunomiebi George's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" /> 
+</a>
 
 <br/>
 <br/>

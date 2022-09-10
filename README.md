@@ -32,9 +32,9 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
 ### Programming Languages....
 
 <p align="left">
-<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
 #### Profile views counter

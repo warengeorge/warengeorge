@@ -1,6 +1,6 @@
 ## Hi there, I'm George 
 
-<p align="center">
+<p align="right">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 

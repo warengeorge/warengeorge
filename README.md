@@ -1,6 +1,6 @@
 ## Hi there, I'm George 
 
-<img align="right" src="https://img.icons8.com/ios-filled/96/000000/programming.png" width="20%"/>
+<img align="right" src="https://img.icons8.com/ios-filled/96/000000/programming.png" width="40%"/>
 
 - I'm a **Learner** | **Programmer** 
 - About me :- **Devops Certified Engineer** | **Blockchain Enthusiast**

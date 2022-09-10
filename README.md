@@ -26,7 +26,7 @@
   <img align="left" alt="Tamunomiebi George's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </a> 
-<a href="mailto:george@gmail.com">georgeomiebi@gmail.com</a>  
+<a href="mailto:george@gmail.com">georgeomiebi@gmail.com
   <img align="left" alt="Tamunomiebi George's email" width="22px"
 </a>
 

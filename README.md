@@ -29,6 +29,7 @@
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
 </a>
 
+<!---
 ### Programming Languages....
 
 <p align="left">
@@ -36,9 +37,24 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
 <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
+--->
+<div align="center">
+  <a href="https://github.com/warengeorge">
+  <img height="150em" img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warengeorge&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Viq-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Viq-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Viq-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Viq-Java" height="50" width="80" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Viq-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img align="right" src="https://i.picasion.com/pic91/d5053f9deecfab14aacad086eed7f262.gif" width="120" height="120" border="0" alt="https://picasion.com/" /></a><br />
+</div>
 
+<!---
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{warengeorge}/count.svg)
+--->
 <br/>
 <br/>
 <!--- 

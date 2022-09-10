@@ -29,6 +29,8 @@
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
 </a>
 
+<br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/warengeorge">

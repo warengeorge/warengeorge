@@ -3,7 +3,9 @@
 
 <img align="right" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" width="20%"/>
 
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warengeorge&label=Profile%20views&color=0e75b6&style=flat" alt="warengeorge" /> </p>
+--->
 
 - I'm a **Learner** | **Programmer** 
 - About me :- **Devops Certified Engineer** | **Blockchain Enthusiast**

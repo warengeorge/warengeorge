@@ -46,29 +46,9 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
   <img align="center" alt="Viq-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Viq-C" height="40" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png">
   <img align="center" alt="Viq-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-<!--- <img align="right" src="https://i.picasion.com/pic91/d5053f9deecfab14aacad086eed7f262.gif" width="120" height="120" border="0" alt="https://picasion.com/" /></a><br />
---->
 </div>
 
 
-
-
-<!---
-### Programming Languages....
-
-<p align="left">
-<img width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-</p>
---->
-
-<!---
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{warengeorge}/count.svg)
---->
-<br/>
-<br/>
 <!--- 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-project-tau-five.vercel.app/)
 --->                                          

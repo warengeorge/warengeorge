@@ -46,7 +46,8 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlemessages.svg" />
   <img align="center" alt="Viq-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Viq-C" height="40" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png">
   <img align="center" alt="Viq-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img align="right" src="https://i.picasion.com/pic91/d5053f9deecfab14aacad086eed7f262.gif" width="120" height="120" border="0" alt="https://picasion.com/" /></a><br />
+<!--- <img align="right" src="https://i.picasion.com/pic91/d5053f9deecfab14aacad086eed7f262.gif" width="120" height="120" border="0" alt="https://picasion.com/" /></a><br />
+--->
 </div>
 
 
